@@ -18,4 +18,4 @@ And obviously everything related to the use of PHP: engine, libraries, connector
 
 Well, fortunately there is a lot of information about this on the Internet. Here I will put some links that I find interesting to install and deploy the work environment.
 
-(DigitalOcean: How  to install Linux, Apache, PHP and MySQL stack on Ubuntu)[https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04]
+[DigitalOcean: How  to install Linux, Apache, PHP and MySQL stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
