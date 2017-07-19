@@ -30,9 +30,7 @@ class Cat
 	 *
 	 * It is recommended that properties be created with initial values at
 	 * the top of your program, or method or class. 
- *
- *
- *
+	 */
 
 
 

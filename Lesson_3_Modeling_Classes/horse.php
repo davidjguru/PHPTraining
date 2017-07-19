@@ -39,7 +39,7 @@ class Horse
 	   * in an object (an instance of a class). The $ sign is for the pointer
 	   * but in this case, not for the variable ($this-> horse_breed).
 	   *
-	   * /
+	   */
 
 
 	  }
