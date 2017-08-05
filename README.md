@@ -30,7 +30,7 @@ You may not like it. You may not be interested. Who knows? I, from my position, 
 
 ## What people are you recommended for?
 
-In fact, this practical guide is based on the user-created roadmap [@kamranahmedse](https://github.com/kamranahmedse) in Gitahub ([see here](https://github.com/kamranahmedse/developer-roadmap)), especially in the way described for backend in the PHP7 branch. Everything is really oriented to learn to work with the stack PHP-MySQL-Node-Drupal and Git. It is based on my own experience and some ideas.
+In fact, this practical guide is based on the roadmap created by the user [@kamranahmedse](https://github.com/kamranahmedse) in Github ([see here](https://github.com/kamranahmedse/developer-roadmap)), especially in the way described for backend in the PHP7 branch. Everything is really oriented to learn to work with the stack PHP-MySQL-Node-Drupal and Git. It is based on my own experience and some ideas.
 
 For more references, I recommend (much) read and practice with:
 
