@@ -1,4 +1,4 @@
-![PHPTraining image](/media/PHPTraining.png)
+![PHPTraining image](/media/PHPTraining_Image.png)
 
 # PHPTraining
 Hi, my name is David Rodriguez (AKA davidjguru) and I have created this project as a free training resource.
@@ -34,6 +34,12 @@ In fact, this practical guide is based on the roadmap created by the user [@kamr
 
 For more references, I recommend (much) read and practice with:
 
-### Javascript
-* [http://eloquentjavascript.net](http://eloquentjavascript.net)
+### PHP
 
+* [PHP Code Guide (PSR-1)](https://github.com/pipocadigital/php)
+* [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
+
+### Javascript, Node
+
+* [http://eloquentjavascript.net](http://eloquentjavascript.net)
+* [https://github.com/azat-co/practicalnode](https://github.com/azat-co/practicalnode)
