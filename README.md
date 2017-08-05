@@ -19,3 +19,10 @@ And obviously everything related to the use of PHP: engine, libraries, connector
 Well, fortunately there is a lot of information about this on the Internet. Here I will put some links that I find interesting to install and deploy the work environment.
 
 [DigitalOcean: How  to install Linux, Apache, PHP and MySQL stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
+
+
+## Ok, but What is my approach?
+
+Well, obviously there are many tutorials on programming in general and programming in PHP in particular, but I think my point of view, based on years of experience, learning, relearning, erasing the hard drive and guiding others on this path, Have led me to think that a more constructivist approach is necessary than behaviorist, very close to the immediate reality to model cases and better visualize the principles of programming. In addition, I believe that the process should be theoretical-practical, build bases and practice directly. That's where my approach is.
+You may not like it. You may not be interested. Who knows? I, from my position, I'm just playing.
+
