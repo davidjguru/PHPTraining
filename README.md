@@ -7,7 +7,7 @@ After some time seeing materials on PHP, object oriented programming (OOP) and o
 The following repository and its contents are available under Creative Commons License BY-NC-SA.
 
 
-## Pre-requirements:
+## Pre-requirements
 
 Would be ideal to have a homogeneous environment to make this trip through PHP. I recommend a system to practice with the following characteristics:
 Operating System: Unix-based (Debian, Ubuntu ...)
@@ -23,8 +23,17 @@ Well, fortunately there is a lot of information about this on the Internet. Here
 [DigitalOcean: How  to install Linux, Apache, PHP and MySQL stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04)
 
 
-## Ok, but What is my approach?
+## Ok, but What is your approach?
 
 Well, obviously there are many tutorials on programming in general and programming in PHP in particular, but I think my point of view, based on years of experience, learning, relearning, erasing the hard drive and guiding others on this path, Have led me to think that a more constructivist approach is necessary than behaviorist, very close to the immediate reality to model cases and better visualize the principles of programming. In addition, I believe that the process should be theoretical-practical, build bases and practice directly. That's where my approach is.
 You may not like it. You may not be interested. Who knows? I, from my position, I'm just playing.
+
+## What people are you recommended for?
+
+In fact, this practical guide is based on the user-created roadmap [@kamranahmedse](https://github.com/kamranahmedse) in Gitahub ([see here](https://github.com/kamranahmedse/developer-roadmap)), especially in the way described for backend in the PHP7 branch. Everything is really oriented to learn to work with the stack PHP-MySQL-Node-Drupal and Git. It is based on my own experience and some ideas.
+
+For more references, I recommend (much) read and practice with:
+
+### Javascript
+* [http://eloquentjavascript.net](http://eloquentjavascript.net)
 
