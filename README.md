@@ -38,6 +38,11 @@ For more references, I recommend (much) read and practice with:
 
 * [PHP Code Guide (PSR-1)](https://github.com/pipocadigital/php)
 * [A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
+* [PHP The Right Way](http://www.phptherightway.com)
+* [Codecademy Learn PHP](https://www.codecademy.com/learn/php)
+* [PHP from Scratch (Oldie)](https://code.tutsplus.com/articles/25-resources-to-get-you-started-with-php-from-scratch--net-2223)
+* [PHP Pandas: The PHP Programming Language For Everyone](https://daylerees.com/php-pandas/)
+
 
 ### Javascript, Node
 
